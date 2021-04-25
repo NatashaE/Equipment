@@ -1,2 +1,6 @@
 # Equipment
 3D scene of workout equipment created using c++ and OpenGL
+
+This project helped me gain a few design skills. A major one being the importance of lighting and textures and how they work together. I took an incremental approach to the design and development. This included adding one thing at a time, adjusting, and repeating. My process is a typical process in for most work, especially coding. When I create a new feature, I like to get something working bit by bit. This helps with preventing and locating errors which helps save time. The use of iteration was helpful in creating the objects. This lent the need for less but versatile code. Since each milestone focused on a different subject from texture to lighting to drawing shapes it influenced how I built out my program. If I had already implemented a factor, then I would try to make more efficient based on what I learned.  
+
+Computer science has already helped me reach my career goal of being a software engineer, but it will continue to help grow in the field and expanded my knowledge. Computational graphics and visualizations have really offered a lot of new concepts that I was not yet exposed to. It touches mathematics, physics, and geometry to really build upon my past educational experiences. These skills are important to be successful in computer science and to grow in the industry.  
